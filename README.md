@@ -1,5 +1,6 @@
 # calculadoraReact
 Pequeno projeto em React para fixação de conceitos importantes dessa lib.
+
 Trata-se de um clone do App de calculadora do IOS.
 
 Para testar o projeto deve-se executar o comando para a criação de um novo projeto React:
@@ -10,7 +11,7 @@ Após  a instalação das dependências, o diretório será semelhante a esse:
 
 ![git2](https://user-images.githubusercontent.com/72526396/167954185-1cc9bba7-242c-4d57-8e51-fdda5f981871.PNG)
 
-Susbstitua a pasta 'src' padrão do React e coloque a pasta 'src' do projeto baixado.
+Substitua a pasta 'src' padrão do React pela pasta 'src' do projeto baixado.
 
 Execute o comando seguinte para rodar o projeto:
 
